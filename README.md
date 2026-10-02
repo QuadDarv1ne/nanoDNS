@@ -20,9 +20,9 @@
 ## 💜 Поддержка разработки
 
  Если вы хотите поддержать проект, вы можете сделать пожертвование
- - USDT (TRC-20):  **`TKaUGEwMm9KBXzEoiaaKYBX2yCHAKASW3p`**
- - USDT (ERC-20):  **`0x313dD245dBA957A5560618eA882d08e66aaFb430`**
- - USDC (Solana):  **`5kv7j2RbUGaSP1kU1cZWj9jHH7d6rfvxmK6YXTYbH4um`**
+ - USDT (TRC-20):  **`@maestro7it`**
+ - USDT (ERC-20):  **`@maestro7it`**
+ - USDC (Solana):  **`@maestro7it`**
 
 ## Сборка
 
